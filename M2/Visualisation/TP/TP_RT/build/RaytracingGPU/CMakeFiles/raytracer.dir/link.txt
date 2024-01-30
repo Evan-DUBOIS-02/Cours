@@ -1,0 +1,2 @@
+/usr/bin/ar qc libraytracer.a CMakeFiles/raytracer.dir/scene.cpp.o CMakeFiles/raytracer.dir/bvh.cpp.o CMakeFiles/raytracer.dir/gpu_bvh_scene.cpp.o CMakeFiles/raytracer.dir/glsl_rec.cpp.o
+/usr/bin/ranlib libraytracer.a
