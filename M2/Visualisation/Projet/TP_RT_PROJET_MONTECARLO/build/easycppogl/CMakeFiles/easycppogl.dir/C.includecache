@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../GL/gl3w.h
+GL/glcorearb.h
+-
+
+../GL/glcorearb.h
+windows.h
+-
+KHR/khrplatform.h
+-
+
+../KHR/khrplatform.h
+stdint.h
+-
+inttypes.h
+-
+stdint.h
+-
+
+/home/evan/Documents/M2/projet-visualisation/TP_RT_PROJET_MONTECARLO/easycppogl/gl3w.c
+GL/gl3w.h
+-
+stdlib.h
+-
+windows.h
+-
+dlfcn.h
+-
+dlfcn.h
+-
+

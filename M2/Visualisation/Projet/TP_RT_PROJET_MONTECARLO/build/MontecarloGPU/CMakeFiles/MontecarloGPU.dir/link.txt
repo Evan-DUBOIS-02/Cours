@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/MontecarloGPU.dir/montecarlo.cpp.o  -o MontecarloGPU  ../bvh_gpu/libbvh_gpu.a ../easycppogl/libeasycppogl.a /usr/local/lib/libglfw3.a -lrt -lm -ldl -lX11 -lpthread -lassimp -ldl -lpthread 

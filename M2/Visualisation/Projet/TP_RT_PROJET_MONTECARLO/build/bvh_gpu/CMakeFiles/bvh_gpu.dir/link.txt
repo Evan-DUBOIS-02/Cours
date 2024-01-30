@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbvh_gpu.a  CMakeFiles/bvh_gpu.dir/scene.cpp.o CMakeFiles/bvh_gpu.dir/bvh.cpp.o CMakeFiles/bvh_gpu.dir/gpu_bvh_scene.cpp.o CMakeFiles/bvh_gpu.dir/glsl_rec.cpp.o
+/usr/bin/ranlib libbvh_gpu.a

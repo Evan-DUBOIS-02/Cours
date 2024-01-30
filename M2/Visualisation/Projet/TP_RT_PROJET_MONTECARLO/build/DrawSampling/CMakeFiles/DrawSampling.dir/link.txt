@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/DrawSampling.dir/draw_sampling.cpp.o  -o DrawSampling  ../easycppogl/libeasycppogl.a /usr/local/lib/libglfw3.a -lrt -lm -ldl -lX11 -lpthread -lassimp -ldl -lpthread 
